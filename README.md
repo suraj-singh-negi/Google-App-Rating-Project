@@ -1,2 +1,2 @@
 # Google-App-Rating-Project
-In this project our main aim is to clean the google apps data and plot it according to their category. To clean dataset we uses Pandas and Numpy, for data visualization we uses Matplotlib.
+This project aims to predict price of a real estate property.We uses Numpy and Pandas for data cleaning, Matplotlib for data visualization, Sklearn for model building and Jupyter Notebook to write code.
